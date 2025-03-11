@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShabaniNjaidi
-🎓 Computer Science Student at the University of Dar es Salaam
+🎓 Computer Science & Alumni of University of Dar es Salaam
 💻 I’m passionate about programming and system maintenance
 💡 Skills: Proficient in C, Java, and MySQL
 🌱 Currently expanding my expertise in Kotlin and Python
