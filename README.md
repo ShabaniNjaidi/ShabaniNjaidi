@@ -4,7 +4,7 @@
 💡 Skills: Proficient in C, Java, and MySQL
 🌱 Currently expanding my expertise in Kotlin and Python
 💼 I’m eager to collaborate on web-based applications and Android app development
-📫 Feel free to reach out via email: doctoralvestz@gmail.com or phone: +255622047075
+📫 Feel free to reach out via email: info@mhas.co.tz or phone: +255767931411
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’m a huge fan of sports and traveling
 <!---
